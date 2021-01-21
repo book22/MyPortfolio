@@ -26,7 +26,7 @@
     <Skillcard 
     :title="'DB'"
     :items="[
-      {context: 'Sqlite3', value: 1},
+      {context: 'SQLite3', value: 1},
       {context: 'Firebase', value: 1}
     ]"
     />
