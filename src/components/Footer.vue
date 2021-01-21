@@ -3,8 +3,8 @@
         <p>Copyright 2021</p>
         <ul>
             <li><a href="https://github.com/book22"><i class="fab fa-github fa-3x"></i></a></li>
-            <li><a href="https://twitter.com/salon_honsan"><i class="fas fa-envelope fa-3x"></i></a></li>
-            <li><a href="mailto:info@blackaroww0122@gmail.com"><i class="fab fa-twitter fa-3x"></i></a></li>
+            <li><a href="mailto:info@blackaroww0122@gmail.com"><i class="fas fa-envelope fa-3x"></i></a></li>
+            <li><a href="https://twitter.com/salon_honsan"><i class="fab fa-twitter fa-3x"></i></a></li>
         </ul>
     </footer>
 </template>
