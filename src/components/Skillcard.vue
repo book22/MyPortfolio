@@ -28,6 +28,7 @@ export default {
    margin: auto;
    margin-top: 28px;
    font-size: 20px;
+   border-radius: 20px;
  }
 
 

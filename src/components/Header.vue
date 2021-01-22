@@ -34,7 +34,6 @@ a {
   display: inline-block;
   width: 82px;
   padding: 0.6em 2em;
-  margin-left: 60px;
   cursor: pointer;
   transition: all 0.3s ease 0s;
 }

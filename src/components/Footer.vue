@@ -18,6 +18,7 @@
 <style scoped>
  p {
      text-align: left;
+     color: black;
 
  }
 
