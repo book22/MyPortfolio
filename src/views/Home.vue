@@ -52,6 +52,7 @@
   width: 80%;
   margin: auto;
   font-size: 22px;
+  color: rgb(82, 82, 82);
 }
 
 .wrap {
@@ -100,8 +101,8 @@ a {
   text-align: center;
   line-height: 46px;
   color: #fff;
-  background: #333;
-  border: 2px solid #333;
+  background: rgb(95, 95, 95);
+  border: 2px solid rgb(77, 76, 76);
   position: relative;
   padding: 0 0 0 10px;
 }

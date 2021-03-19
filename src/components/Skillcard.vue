@@ -29,6 +29,7 @@ export default {
    margin-top: 28px;
    font-size: 20px;
    border-radius: 20px;
+   color: rgb(85, 84, 84);
  }
 
 
